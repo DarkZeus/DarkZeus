@@ -23,11 +23,9 @@ Web Developer with 7+ years of experience in both frontend and backend technolog
 - [playstation-dashboard](https://github.com/DarkZeus/playstation-dashboard) - A modern dashboard for PlayStation users, built with Vue, Nuxt, TypeScript, and Motion for Vue.
 - [PsychochauffeurBot-webui](https://github.com/DarkZeus/PsychochauffeurBot-webui) - A web interface for the PsychochaufferBot, built with React, TypeScript, TanStack (Query & Router), and shadcn/ui.
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkZeus&show_icons=true)
-
-### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZeus&layout=compact&hide=blade,html,css,scss)
+| 📊 GitHub Stats | 🏆 Top Languages |
+|:---:|:---:|
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkZeus&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZeus&layout=compact&hide=blade,html,css,scss) |
 
 ### 🎯 Current Focus
 - 🔍 Exploring new frontend technologies and best practices
