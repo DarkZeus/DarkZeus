@@ -6,6 +6,7 @@ Experienced Software Engineer with 7+ years architecting scalable web solutions 
 ---
 
 ### 💼 Professional Experience
+- **Frontend Developer** @ Paybis (Sep 2025 - Current)
 - **Middle Software Engineer (Web & Mobile)** @ LeverX (Oct 2021 – Dec 2024)
 - **Software Engineer** @ PJSC Chernihivoblenergo (Dec 2018 – Sep 2021) 
 - **Web Developer** @ Freelance (Jan 2017 – Aug 2018)
@@ -52,11 +53,12 @@ Experienced Software Engineer with 7+ years architecting scalable web solutions 
 ### 🚀 Professional Development
 
 **Recent Learning:**
+- Bare Metal JavaScript​: The JavaScript Virtual Machine (Miško Hevery, FrontendMasters) - Aug 2025
 - The Last Algorithms Course You'll Need (Michael Paulson, FrontendMasters) - Jul 2025
 - Animations on the Web (Emil Kowalski) - Feb 2025
 
 ### 🎮 Hobbies & Interests
-- 🎮 Gaming (currently playing Assassin's Creed Valhalla)
+- 🎮 Gaming
 - 🎸 Playing guitar and enjoying music
 - 🎬 Audio & video production
 - 🔧 Self-hosting and privacy-focused infrastructure
