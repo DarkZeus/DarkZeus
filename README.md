@@ -39,9 +39,6 @@ Experienced Software Engineer with 7+ years architecting scalable web solutions 
 
 - **[PsychochauffeurBot-webui](https://github.com/DarkZeus/PsychochauffeurBot-webui)** - A web interface for the PsychochaufferBot, built with React, TypeScript, TanStack (Query & Router), and shadcn/ui.
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-|:---:|:---:|
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkZeus&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZeus&layout=compact&hide=blade,html,css,scss) |
 
 ### 🎯 Current Focus & Philosophy
 
